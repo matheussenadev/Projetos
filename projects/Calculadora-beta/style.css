@@ -1,0 +1,88 @@
+.container{
+    background-color: blue;
+    width: 400px;
+    height: 600px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: auto;
+    margin-top: 70px;
+    color: white;
+}
+
+header{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font: bold 2.5rem serif;
+    margin-bottom: 20px;
+    border-bottom: solid 3px white;
+}
+
+label{
+    font: normal 2rem serif;
+    display: flex;
+    align-items: center;
+}
+input{
+    width: 300px;
+    height: 30px;
+    border-radius: 6px;
+    border: none;
+    outline: none;
+    font: normal 1.5rem serif;
+    color: blue;
+    margin: 10px;
+}
+
+.somar{
+    width: 300px;
+    height: 30px;
+    border-radius: 4px;
+    border: none;
+    color: blue;
+    font: normal 1.3rem serif;
+    margin-bottom: 10px;
+}
+.sub{
+    width: 300px;
+    height: 30px;
+    border-radius: 4px;
+    border: none;
+    color: blue;
+    font: normal 1.3rem serif;
+    margin-bottom: 10px;
+}
+.mult{
+    width: 300px;
+    height: 30px;
+    border-radius: 4px;
+    border: none;
+    color: blue;
+    font: normal 1.3rem serif;
+    margin-bottom: 10px;
+}
+.div{
+    width: 300px;
+    height: 30px;
+    border-radius: 4px;
+    border: none;
+    color: blue;
+    font: normal 1.3rem serif;
+    margin-bottom: 10px;
+}
+.res{
+    width: 300px;
+    height: 200px;
+    background-color: white;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    color: blue;
+    font: normal 1.7rem serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
